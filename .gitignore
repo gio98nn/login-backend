@@ -1,0 +1,20 @@
+﻿# Logs
+*.log
+logs/
+# Visual Studio
+.vscode/
+.vs/
+*.user
+*.suo
+# Output
+bin/
+obj/
+# Configuration
+appsettings.Development.json
+# Other
+*.db
+# Exclude launchSettings.json
+Properties/launchSettings.json
+Login-API.csproj
+Properties/
+appsettings.json
